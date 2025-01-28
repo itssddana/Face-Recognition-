@@ -17,7 +17,6 @@ This project demonstrates how to detect faces in an image using the `face_recogn
 ### Libraries Installation
 
 To run the project, you will need to install the required libraries. You can install them using the following commands:
-```bash
 !pip install opencv-python face_recognition matplotlib Pillow
 
 ## Usage
